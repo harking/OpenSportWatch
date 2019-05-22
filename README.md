@@ -1,5 +1,6 @@
-# Nike Sportwatch GPS Electron
-Enables downloading of data from Nike Sportwatch GPS watches. Export to GPX for uploading to your favorite platform.
+# Open Sportwatch App
+Enables downloading of data from Sportwatch GPS watches. 
+Export to GPX for uploading to your favorite platform.
 
 Future:
 - Time and date setting
