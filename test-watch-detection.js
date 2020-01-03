@@ -1,4 +1,5 @@
-var usbDetect = require('usb-detection');
+import usbDetect from 'usb-detection';
+
 usbDetect.startMonitoring();
 
 const NIKE_VENDOR_ID = 4524;

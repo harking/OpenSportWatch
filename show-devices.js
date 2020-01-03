@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 
-var HID = require('node-hid');
+import HID from 'node-hid';
 
 // Linux: choose driverType
 // default is 'hidraw', can also be 'libusb'
